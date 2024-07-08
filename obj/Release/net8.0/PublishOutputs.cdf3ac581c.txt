@@ -1,0 +1,5 @@
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\publish\TestSimulator.exe
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\publish\TestSimulator.dll
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\publish\TestSimulator.deps.json
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\publish\TestSimulator.runtimeconfig.json
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\publish\TestSimulator.pdb

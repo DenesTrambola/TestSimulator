@@ -1,0 +1,14 @@
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\TestSimulator.exe
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\TestSimulator.deps.json
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\TestSimulator.runtimeconfig.json
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\TestSimulator.dll
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\TestSimulator.pdb
+D:\IT Step\C#\TestSimulator\obj\Release\net8.0\TestSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Step\C#\TestSimulator\obj\Release\net8.0\TestSimulator.AssemblyInfoInputs.cache
+D:\IT Step\C#\TestSimulator\obj\Release\net8.0\TestSimulator.AssemblyInfo.cs
+D:\IT Step\C#\TestSimulator\obj\Release\net8.0\TestSimulator.csproj.CoreCompileInputs.cache
+D:\IT Step\C#\TestSimulator\obj\Release\net8.0\TestSimulator.dll
+D:\IT Step\C#\TestSimulator\obj\Release\net8.0\refint\TestSimulator.dll
+D:\IT Step\C#\TestSimulator\obj\Release\net8.0\TestSimulator.pdb
+D:\IT Step\C#\TestSimulator\obj\Release\net8.0\TestSimulator.genruntimeconfig.cache
+D:\IT Step\C#\TestSimulator\obj\Release\net8.0\ref\TestSimulator.dll

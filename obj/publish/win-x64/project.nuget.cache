@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2P+53/1YphA=",
+  "success": true,
+  "projectFilePath": "D:\\IT Step\\C#\\TestSimulator\\TestSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserW\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\UserW\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.6\\microsoft.netcore.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\UserW\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\UserW\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.6\\microsoft.aspnetcore.app.runtime.win-x64.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

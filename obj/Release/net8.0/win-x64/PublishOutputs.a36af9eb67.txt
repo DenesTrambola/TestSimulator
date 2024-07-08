@@ -1,0 +1,2 @@
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\publish\win-x64\TestSimulator.pdb
+D:\IT Step\C#\TestSimulator\bin\Release\net8.0\publish\win-x64\TestSimulator.exe
